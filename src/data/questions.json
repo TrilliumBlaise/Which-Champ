@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "question": "Which weapon is better?",
+    "answers": ["Sword", "Gun", "Mace", "My Own Body", "Bonesaw!"],
+    "value": ["G", "U", "M", "D", "Z"],
+    "display": "block"
+  },
+  {
+    "id": 2,
+    "question": "What is your reason for fighting?",
+    "answers": [
+      "For JUSTICE! For DEMACIA!",
+      "I will guide you to a new age, born of destruction.",
+      "I will silence the incessant thrum of mortal hearts.",
+      "Why Mundo do this? For the community!",
+      "Fighting is in my blood... I mean... my goo."
+    ],
+    "value": ["G", "U", "M", "D", "Z"],
+    "display": "none"
+  },
+  {
+    "id": 3,
+    "question": "What is the best state of matter?",
+    "answers": ["JUSTICE!", "Flame", "Metal", "What's the matter?", "Slime"],
+    "value": ["G", "U", "M", "D", "Z"],
+    "display": "none"
+  }
+]

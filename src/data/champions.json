@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Garen",
+    "secondName": "The Might of Demacia",
+    "description": "A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its ideals. Clad in magic-resistant armor and bearing a mighty broadsword, Garen stands ready to confront mages and sorcerers on the field of battle, in a veritable whirlwind of righteous steel.",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Urgot",
+    "secondName": "The Dreadnought",
+    "description": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge—a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain.",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mordekaiser",
+    "secondName": "The Iron Revenant",
+    "description": "Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers—but there are some ancient souls that do, and they fear the day when he may return to claim dominion over both the living and the dead.",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Mundo",
+    "secondName": "The Madman of Zaun",
+    "description": "Utterly mad, tragically homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun's citizens indoors on particularly dark nights. Now a self-proclaimed physician, he was once a patient of Zaun's most infamous asylum. After 'curing' the entire staff, Dr. Mundo established his practice in the empty wards that once treated him and began mimicking the highly unethical procedures he had so often experienced himself. With a full cabinet of medicines and zero medical knowledge, he now makes himself more monstrous with each injection and terrifies the hapless 'patients' who wander near his office.",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Zac",
+    "secondName": "The Secret Weapon",
+    "description": "Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun's Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city's pipes, occasionally emerging to help those who cannot help themselves or to rebuild the broken infrastructure of Zaun.",
+    "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg"
+  }
+]
